@@ -9,3 +9,13 @@ KubeCon North America 2019 San Diego:
 - [Contributor Summit NA 2019: Practical Git for Kubernetes Contributors](https://www.youtube.com/watch?v=K5qI9bTG9Ik)
 - [Deep Dive: Contributor Experience Special Interest Group](https://www.youtube.com/watch?v=0d97Wna4qOs)
 - [Panel: State of the Kubernetes Union - Steering Committee Discussion](https://www.youtube.com/watch?v=0Su1kKlr9q0)
+
+KubeCon Europe 2020 Virtual:
+- [Panel: Kubernetes Steering Committee AMA](https://www.youtube.com/watch?v=7exbtga2AfM)
+
+KubeCon Europe 2021 Virtual:
+- [Deep Dive: Contributor Experience Special Interest Group](https://www.youtube.com/watch?v=vPK3QmVOE4Y)
+
+KubeCon North America 2021 Los Angeles:
+- [Keynote: Sustaining a Contributor Community’s Next Generation](https://sched.co/ocSC)
+- [Deep Dive: Contributor Experience Special Interest Group](https://sched.co/lV91)
