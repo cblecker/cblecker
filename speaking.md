@@ -17,5 +17,10 @@ KubeCon Europe 2021 Virtual:
 - [Deep Dive: Contributor Experience Special Interest Group](https://www.youtube.com/watch?v=vPK3QmVOE4Y)
 
 KubeCon North America 2021 Los Angeles:
-- [Keynote: Sustaining a Contributor Community’s Next Generation](https://sched.co/ocSC)
-- [Deep Dive: Contributor Experience Special Interest Group](https://sched.co/lV91)
+- [Keynote: Sustaining a Contributor Community’s Next Generation](https://www.youtube.com/watch?v=e7W2yrOIR64)
+- [Deep Dive: Contributor Experience Special Interest Group](https://www.youtube.com/watch?v=QOiyWWFjG5Q)
+
+KubeCon Europe 2022 Valencia:
+- [Panel: Kubernetes Steering Committee AMA](https://www.youtube.com/watch?v=btAVAVeY_gM)
+- [Deep Dive: Contributor Experience Special Interest Group](https://www.youtube.com/watch?v=hD6ZtmEIbEQ)
+
